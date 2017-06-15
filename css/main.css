@@ -1,3 +1,50 @@
+html {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
 body {
-	background-color: pink;
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+.my-grid {
+	height: 100%;
+	width: 100%;
+	display: grid; 
+	grid-template-rows: repeat(8, 1fr) ; /*1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr this is the same thing, shorthand vs longhand*/
+}
+
+#pink-row {
+	background-color: #F13C9D;
+}
+
+#red-row {
+	background-color: #F80B25;
+}
+
+#orange-row {
+	background-color: #F78121;
+}
+
+#yellow-row {
+	background-color: #F9E81F;
+}
+
+#green-row {
+	background-color: #1E9730;
+}
+
+#blue-row {
+	background-color: #1B86BC;
+}
+
+#torq-row {
+	background-color: #263791;
+}
+
+#purple-row {
+	background-color: #6F0A82;		
 }
