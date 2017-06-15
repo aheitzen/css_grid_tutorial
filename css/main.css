@@ -21,6 +21,18 @@ body {
 	background-color: #F13C9D;
 }
 
+p {
+	font-size: 30px;
+	text-align: center;
+	color: #F13C9D;
+}
+
+#pink-row:hover {
+	background-color: white;
+	cursor: pointer;
+
+}
+
 #red-row {
 	background-color: #F80B25;
 }
