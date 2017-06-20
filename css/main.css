@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Leckerli+One');
+@import url('https://fonts.googleapis.com/css?family=Leckerli+One|Oswald:300');
+
 html {
 	height: 100%;
 	width: 100%;
@@ -19,44 +22,200 @@ body {
 
 #pink-row {
 	background-color: #F13C9D;
+	text-align: center;
 }
 
-p {
-	font-size: 30px;
-	text-align: center;
+#pink-row p  {
+	margin: 0;
+	padding: 0;
+	font-size: 45px;
 	color: #F13C9D;
+	font-family: 'Leckerli One', cursive;
+}
+
+#pink-row span {
+	font-size: 15px;
+	color: #F13C9D;
+	font-family: 'Oswald', sans-serif;
 }
 
 #pink-row:hover {
 	background-color: white;
 	cursor: pointer;
-
+	transition: all 0.2s ease-in;
 }
 
 #red-row {
 	background-color: #F80B25;
+	text-align: center;
+}
+
+#red-row p  {
+	margin: 0;
+	padding: 0;
+	font-size: 45px;
+	color: #F80B25;
+	font-family: 'Leckerli One', cursive;
+}
+
+#red-row span {
+	font-size: 15px;
+	color: #F80B25;
+	font-family: 'Oswald', sans-serif;
+}
+
+#red-row:hover {
+	background-color: white;
+	cursor: pointer;
+	transition: all 0.2s ease-in;
 }
 
 #orange-row {
 	background-color: #F78121;
+	text-align: center;
+}
+
+#orange-row p  {
+	margin: 0;
+	padding: 0;
+	font-size: 45px;
+	color: #F78121;
+	font-family: 'Leckerli One', cursive;
+}
+
+#orange-row span {
+	font-size: 15px;
+	color: #F78121;
+	font-family: 'Oswald', sans-serif;
+}
+
+#orange-row:hover {
+	background-color: white;
+	cursor: pointer;
+	transition: all 0.2s ease-in;
 }
 
 #yellow-row {
 	background-color: #F9E81F;
+	text-align: center;
+}
+
+#yellow-row p  {
+	margin: 0;
+	padding: 0;
+	font-size: 45px;
+	color: #F9E81F;
+	font-family: 'Leckerli One', cursive;
+}
+
+#yellow-row span {
+	font-size: 15px;
+	color: #F9E81F;
+	font-family: 'Oswald', sans-serif;
+}
+
+#yellow-row:hover {
+	background-color: white;
+	cursor: pointer;
+	transition: all 0.2s ease-in;
 }
 
 #green-row {
 	background-color: #1E9730;
+	text-align: center;
+}
+
+#green-row p  {
+	margin: 0;
+	padding: 0;
+	font-size: 45px;
+	color: #1E9730;
+	font-family: 'Leckerli One', cursive;
+}
+
+#green-row span {
+	font-size: 15px;
+	color: #1E9730;
+	font-family: 'Oswald', sans-serif;
+}
+
+#green-row:hover {
+	background-color: white;
+	cursor: pointer;
+	transition: all 0.2s ease-in;
 }
 
 #blue-row {
 	background-color: #1B86BC;
+	text-align: center;
+}
+
+#blue-row p  {
+	margin: 0;
+	padding: 0;
+	font-size: 45px;
+	color: #1B86BC;
+	font-family: 'Leckerli One', cursive;
+}
+
+#blue-row span {
+	font-size: 15px;
+	color: #1B86BC;
+	font-family: 'Oswald', sans-serif;
+}
+
+#blue-row:hover {
+	background-color: white;
+	cursor: pointer;
+	transition: all 0.2s ease-in;
 }
 
 #torq-row {
 	background-color: #263791;
+	text-align: center;
+}
+
+#torq-row p  {
+	margin: 0;
+	padding: 0;
+	font-size: 45px;
+	color: #263791;
+	font-family: 'Leckerli One', cursive;
+}
+
+#torq-row span {
+	font-size: 15px;
+	color: #263791;
+	font-family: 'Oswald', sans-serif;
+}
+
+#torq-row:hover {
+	background-color: white;
+	cursor: pointer;
+	transition: all 0.2s ease-in;
 }
 
 #purple-row {
-	background-color: #6F0A82;		
+	background-color: #6F0A82;	
+	text-align: center;	
+}
+
+#purple-row p  {
+	margin: 0;
+	padding: 0;
+	font-size: 45px;
+	color: #6F0A82;
+	font-family: 'Leckerli One', cursive;
+}
+
+#purple-row span {
+	font-size: 15px;
+	color: #6F0A82;
+	font-family: 'Oswald', sans-serif;
+}
+
+#purple-row:hover {
+	background-color: white;
+	cursor: pointer;
+	transition: all 0.2s ease-in;
 }
