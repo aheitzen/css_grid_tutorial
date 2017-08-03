@@ -13,5 +13,5 @@
 * <a target="_blank" href="http://jensimmons.com/post/feb-27-2017/learn-css-grid">Learn CSS Grid</a>
 
 ## Screenshots
-<img src="images/desktop-hover.png" alt="Desktop view" width="400" height="300">
-<img src="images/desktop-no-hover.png" alt="mobile image" width="400" height="300">
+<img src="images/desktop-hover.png" alt="Desktop view" width="300" height="200">
+<img src="images/desktop-no-hover.png" alt="mobile image" width="300" height="200">
