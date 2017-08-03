@@ -11,4 +11,5 @@
 
 ## Images
 
-![alt tag](images/mobile-screenshot.png "Mobile view"){:height="50%" width="50%"}
+<!-- ![alt tag](images/mobile-screenshot.png  "Mobile view") -->
+<img src="images/mobile-screenshot.png" alt="alt text" width="100" height="200">
