@@ -11,4 +11,4 @@
 
 ## Images
 
-![alt tag](images/mobile-screenshot.png)
+![alt tag](images/mobile-screenshot.png "Mobile view"){:height="50%" width="50%"}
